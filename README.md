@@ -1,6 +1,6 @@
 # Banking-back
 Application bancaire (côté back-end) </br>
-Technologies et langages utilisés : Java | Spring | SpringBoot | Hibernate | OpenAPI Swagger | PostgreSQL | 
+Technologies et langages utilisés : Java | Spring | SpringSecurity | SpringBoot | Hibernate | OpenAPI Swagger | PostgreSQL | 
 <br>
 <br>
 
